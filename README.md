@@ -9,6 +9,9 @@ Collection of real estate dataset for Belgium by scrapping of real estate websit
 
 ## 2. Data Cleaning and Visualization
 
+Cleaning and preparing data for a machine learning model. 
+
+Exploratory analysis to understand the data.
 
 ## 3. Prediction Model
 
