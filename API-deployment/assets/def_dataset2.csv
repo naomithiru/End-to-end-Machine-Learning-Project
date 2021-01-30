@@ -1,0 +1,5 @@
+source,house_is,property_subtype,price,postcode,area,rooms_number,equipped_kitchen_has,garden,garden_area,terrace,terrace_area,furnished,swimming_pool_has,land_surface,basement,building_state_agg,open_fire,longitude,latitude
+8901695,TRUE,MIXED_USE_BUILDING,295000,4180,242,3,True,True,1000,True,36,False,False,1403,1403,GOOD,False,5.5653937,50.4547747
+8775843,TRUE,APARTMENT_BLOCK,250000,4020,303,5,True,False,0,False,0,False,False,760,760,TO_RENOVATE,False,5.5844371,50.6393579
+8910441,TRUE,HOUSE,545000,1200,235,4,True,False,0,False,0,True,False,63,63,JUST_RENOVATED,False,4.4081561,50.8435628
+8940340,TRUE,HOUSE,189000,4040,200,3,True,True,40,False,0,False,False,100,11,TO_RENOVATE,False,5.62054,50.6652162
