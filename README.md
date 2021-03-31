@@ -4,7 +4,7 @@ This repo contains code for various different stages of an end to end machine le
 
 The project is divided as follows:
 
-## 1. Web Scraping
+## 1. [Web Scraping](https://github.com/naomithiru/End-to-end-Machine-Learning-Project/tree/master/Web-Scraping)
 Collection of real estate dataset for Belgium by scrapping of real estate websites of belgium.
 
 ## 2. Data Cleaning and Visualization
